@@ -1,4 +1,4 @@
-
+// Program to check whether the given number is divisible by 3 and 5
 #include<stdio.h>
 int main()
 {

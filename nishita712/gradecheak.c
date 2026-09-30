@@ -1,4 +1,4 @@
-
+// Program to check whether the student has passed or failed the exam
 #include<stdio.h>
 int main()
 {

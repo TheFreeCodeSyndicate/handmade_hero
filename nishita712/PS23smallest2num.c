@@ -1,4 +1,4 @@
-
+// Program to find the smallest number among two numbers
 #include<stdio.h>
 int main()
 {
