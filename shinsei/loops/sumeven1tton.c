@@ -1,0 +1,14 @@
+//program to find the sum of all evennumbers from 1 to n using a loop
+
+#include <stdio.h>
+int main()
+{
+    int n, i, sum = 0;
+    printf("Enter the value of n: ");
+    scanf("%d", &n);
+    for (i = 1; i <= n; i++) {      
+        sum += i;
+    }
+    printf("Sum of numbers from 1 to %d is: %d", n, sum);
+    return 0;
+}
